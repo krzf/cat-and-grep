@@ -1,2 +1,2 @@
 # CatAndGrep
-implementation of bash utils
+implementation of bash utils.
